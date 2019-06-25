@@ -5,5 +5,7 @@ Kiryl D. Piatkevich, Seth Bensussen, Hua-an Tseng, Sanaya N. Shroff, Violeta Gis
 --
 
 motion_correction.py: motion correction
+
 archon_trace_event_detection.m : event/spike detection for hippocampus datasets
+
 SomArchon_Striatum_Analysis_SB.m: movement analysis for striatum datasets
